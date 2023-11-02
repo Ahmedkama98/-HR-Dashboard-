@@ -7,6 +7,7 @@
 - [How to Access the Dashboard](#how-to-access-the-dashboard)
 - [Contribute](#contribute)
 
+![p1](https://github.com/Ahmedkama98/-HR-Dashboard-/assets/73551238/51e5a4d8-e815-45e7-a76e-c008a62b6992)  
 
 
 ## Project Overview
